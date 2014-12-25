@@ -1,0 +1,7 @@
+{
+  "name": "contact-form-wc#gh-pages",
+  "private": true,
+  "dependencies": {
+    "contact-form-wc": "dh1118/contact-form-wc#master"
+  }
+}

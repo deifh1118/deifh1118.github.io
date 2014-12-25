@@ -1,0 +1,40 @@
+{
+  "name": "contact-form-wc",
+  "authors": [
+    "David Herranz Fernandez"
+  ],
+  "description": "Contact Form web component using Polymer and Ajax",
+  "keywords": [
+    "web-components",
+    "contact",
+    "form"
+  ],
+  "main": "contact-form-wc.html",
+  "license": "Apache",
+  "homepage": "https://github.com/dh1118/contact-form-wc/",
+  "ignore": [
+    "/.*",
+    "/tests/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.2",
+    "core-header-panel": "Polymer/core-header-panel#~0.5.2",
+    "core-toolbar": "Polymer/core-toolbar#~0.5.2",
+    "core-ajax": "Polymer/core-ajax#~0.5.2",
+    "paper-input": "Polymer/paper-input#~0.5.2",
+    "paper-ripple": "Polymer/paper-ripple#~0.5.2"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^2.0.5"
+  },
+  "_release": "fdb5df6063",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "fdb5df60631762e82b21e81e47a355798bfe818f"
+  },
+  "_source": "git://github.com/dh1118/contact-form-wc.git",
+  "_target": "master",
+  "_originalSource": "dh1118/contact-form-wc",
+  "_direct": true
+}
