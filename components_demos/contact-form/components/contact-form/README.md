@@ -1,7 +1,7 @@
 contact-form
 ============
 
-See the [component page](http://dh1118.github.io/contact-form) for more information.
+See the [component page](http://dh1118.github.io/components_demos/contact-form/components/contact-form/) for more information.
 
 ## Getting Started
 
