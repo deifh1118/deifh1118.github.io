@@ -1,5 +1,5 @@
 {
-  "name": "contact-form-wc",
+  "name": "contact-form",
   "authors": [
     "David Herranz Fernandez"
   ],
@@ -9,9 +9,9 @@
     "contact",
     "form"
   ],
-  "main": "contact-form-wc.html",
+  "main": "contact-form.html",
   "license": "Apache",
-  "homepage": "https://github.com/dh1118/contact-form-wc/",
+  "homepage": "http://dh1118.github.io/components_demos/contact-form/components/contact-form/",
   "ignore": [
     "/.*",
     "/tests/"
@@ -33,8 +33,8 @@
     "branch": "master",
     "commit": "fdb5df60631762e82b21e81e47a355798bfe818f"
   },
-  "_source": "git://github.com/dh1118/contact-form-wc.git",
+  "_source": "git://github.com/dh1118/contact-form.git",
   "_target": "master",
-  "_originalSource": "dh1118/contact-form-wc",
+  "_originalSource": "dh1118/contact-form",
   "_direct": true
 }
